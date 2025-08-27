@@ -1,0 +1,12 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none",
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "liveServer.settings.multiRootWorkspaceName": "Serious Codes"
+}
